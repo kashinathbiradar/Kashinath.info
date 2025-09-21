@@ -79,6 +79,6 @@ https://github.com/kashinathbiradar/Student_Exam_Performance_Prediction
 
 ---
 
-## 📌 Note
+## Note
 This repository contains my professional resume, skills, and project portfolio. For collaboration, feel free to connect via email or GitHub.
 
