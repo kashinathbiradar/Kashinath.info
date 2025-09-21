@@ -40,7 +40,7 @@ CGPA: **7.5** (2022 – 2024)
 ##  Projects
 
 ###  Phishing Website Detection (Pipeline)
-    githb link : https://github.com/kashinathbiradar/Network-Security-Project-For-Phising-Data
+ https://github.com/kashinathbiradar/Network-Security-Project-For-Phising-Data
 - Developed a **Machine Learning pipeline** to detect phishing websites and improve network security.  
 - Models: Logistic Regression, Decision Tree, SVM, Random Forest  
 - Deployment: Flask, Streamlit, Docker, AWS, MLflow  
