@@ -1,4 +1,5 @@
-# 📄 Resume – Kashinath Biradar
+# Kashinath Biradar
+
 
 ## 👨‍💻 About Me
 I am a curiosity-driven **Data Scientist & Machine Learning Engineer**, passionate about leveraging data analytics and machine learning to extract meaningful insights, build predictive models, and solve challenging business problems. I bring strong analytical skills, logical thinking, and teamwork, with a focus on continuous learning and contributing to organizational growth.
@@ -40,7 +41,7 @@ CGPA: **7.5** (2022 – 2024)
 
 ## 🚀 Projects
 
-### 🔐 [Phishing Website Detection (Pipeline)](https://github.com/kashinathbiradar/Network-Security-Project-For-Phising-Data)
+### 🔐 [Phishing Website Detection (Pipeline)] https://github.com/kashinathbiradar/Network-Security-Project-For-Phising-Data
 - Developed a **Machine Learning pipeline** to detect phishing websites and improve network security.  
 - Models: Logistic Regression, Decision Tree, SVM, Random Forest  
 - Deployment: Flask, Streamlit, Docker, AWS, MLflow  
@@ -48,21 +49,21 @@ CGPA: **7.5** (2022 – 2024)
 
 ---
 
-### 📊 [Customer Survival Analysis and Churn Prediction](https://github.com/kashinathbiradar/Customer-Survival-Analysis-and-Churn-Prediction)
+### 📊 [Customer Survival Analysis and Churn Prediction] https://github.com/kashinathbiradar/Customer-Survival-Analysis-and-Churn-Prediction
 - Analyzed customer lifecycle patterns and predicted churn risk using **Survival Analysis**.  
 - Models: Logistic Regression, SVM, Random Forest, Gradient Boosting  
 - Performance: **0.62 F1 Score**, **0.85 ROC-AUC**  
 
 ---
 
-### 🎓 [Student Performance Indicator](https://github.com/kashinathbiradar/Student_Exam_Performance_Prediction)
+### 🎓 [Student Performance Indicator]  https://github.com/kashinathbiradar/Student_Exam_Performance_Prediction
 - Identified factors influencing student performance using **EDA & ML models**.  
 - Models: Linear Regression, SVM, Random Forest Regressor, XGBoost, Decision Trees  
 - Metrics: RMSE, MAE, R² Score, Adjusted R²  
 
 ---
 
-### ✈️ [EDA on Flight Price Dataset](https://github.com/kashinathbiradar/EDA-ON-Flight_Price)
+### ✈️ [EDA on Flight Price Dataset] https://github.com/kashinathbiradar/EDA-ON-Flight_Price
 - Conducted exploratory data analysis on flight pricing.  
 - Analyzed key factors such as airline, source, destination, duration, stops, and travel dates.  
 - Tools: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Plotly  
